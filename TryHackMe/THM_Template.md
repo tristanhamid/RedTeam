@@ -1,12 +1,8 @@
-# Template  
-  
-# ---  
-  
-# TryHackMe Room Write-Up: `[Room Name]`
+# TryHackMe Room Write-Up: `Room Name`  
 
-**Link:** [Room Link]  
-**Difficulty:** `[Easy / Medium / Hard]`  
-**Category:** `[Red Team / Blue Team / CTF / etc.]`
+**Link:** `Room Link`  
+**Difficulty:** `Easy / Medium / Hard`  
+**Category:** `Red Team / Blue Team / CTF / etc.`
 
 ---
 
@@ -15,7 +11,7 @@ A brief description of the room and its main objectives.
 
 ---
 
-## Enumeration
+## Techniques / Enumeration
 Any enumeration techniques used. 
 
 ---
@@ -23,3 +19,4 @@ Any enumeration techniques used.
 ## Useful Tools
 Tools used or other useful notes, links, etc. 
 
+---

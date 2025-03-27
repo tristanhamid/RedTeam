@@ -1,5 +1,3 @@
-# Template   
-  
 # TryHackMe Room Write-Up: `[Room Name]`  
 
 **Link:** `[Room Link]`  
@@ -21,3 +19,4 @@ Any enumeration techniques used.
 ## Useful Tools
 Tools used or other useful notes, links, etc. 
 
+---

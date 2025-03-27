@@ -1,5 +1,3 @@
-# Template   
-  
 # TryHackMe Room Write-Up: `Welcome`  
 
 **Link:** `https://tryhackme.com/room/hello`  
@@ -22,3 +20,5 @@ Still way too early for anything here. I guess just keep an open mind and know t
 ## Useful Tools
 How to install Kali Linux in VirtualBox: https://www.youtube.com/watch?v=sAMnXte56yY  
 How to Connect to TryHackMe VPN with Kali in Virtualbox: https://www.youtube.com/watch?v=TO_5gObqXeA
+
+---

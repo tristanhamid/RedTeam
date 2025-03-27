@@ -1,8 +1,8 @@
-# TryHackMe Room Write-Up: `[Room Name]`  
+# TryHackMe Room Write-Up: `Room Name`  
 
-**Link:** `[Room Link]`  
-**Difficulty:** `[Easy / Medium / Hard]`  
-**Category:** `[Red Team / Blue Team / CTF / etc.]`
+**Link:** `Room Link`  
+**Difficulty:** `Easy / Medium / Hard`  
+**Category:** `Red Team / Blue Team / CTF / etc.`
 
 ---
 

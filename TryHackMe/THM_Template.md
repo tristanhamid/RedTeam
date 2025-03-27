@@ -15,7 +15,7 @@ A brief description of the room and its main objectives.
 
 ---
 
-## Enumeration
+## Techniques / Enumeration
 Any enumeration techniques used. 
 
 ---

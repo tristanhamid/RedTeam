@@ -16,7 +16,7 @@ Day 1: This course taught me that I have lots to do before I even get start with
 
 ---
 
-## Techiques / Enumeration
+## Techniques / Enumeration
 Still way too early for anything here. I guess just keep an open mind and know that you are going to have to watch a lot of youtube videos to master this stuff. 
 
 ---
